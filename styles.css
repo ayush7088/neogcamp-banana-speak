@@ -1,0 +1,111 @@
+body {
+    margin: 0;
+    font-family: 'Caveat', cursive;
+    font-size: 1.5em;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+
+
+  :root{
+        --primary-color: #f5e050;
+
+  }
+
+
+  section {
+    text-align: center;
+  }
+  
+  textarea {
+    width: 30%;
+    min-width: 300px;
+    margin: 30px auto;
+    height: 20vh;
+    margin: 1rem;
+    padding: 1rem;
+    font-size: 1.5rem;
+    font-family: inherit;
+  }
+  
+  button {
+    margin: 20px auto;
+    background-color: var(--primary-color);
+    border-radius: 1.5rem;
+    margin: 1rem 0rem;
+    padding: 1rem 2rem;
+    font-size: large;
+    font-weight: bolder;
+    font-style: oblique;
+  }
+  
+  h1 {
+    text-align: center;
+    background-color: var(--primary-color);
+    margin: 0;
+    padding: 20px 0;
+    font-size: 2em;
+  }
+  
+  #output {
+    display: inline-block;
+    width: 30%;
+    min-width: 300px;
+    height: 20vh;
+    border: 1px solid black;
+    margin: 1rem;
+    padding: 1rem;
+    text-align: left;
+    font-size: 1.5rem;
+  }
+  
+  footer {
+    background-color: var(--primary-color);
+    text-align: center;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+  }
+  
+  #footer-div {
+    text-align: center;
+    box-sizing: border-box;
+    width: 400px;
+  }
+  
+  .footer-heading {
+    padding: 10px 0;
+  }
+  
+  .output-font {
+    font-size: 2rem;
+    font-weight: 600;
+  }
+  
+  @media (max-width: 400px) {
+    textarea,
+    #output {
+      height: 80px;
+    }
+  
+    .output-font {
+      margin: 0;
+    }
+  
+    button {
+      margin-top: 0;
+    }
+  
+    .about-text {
+      margin: 10px;
+    }
+  
+    .footer-heading {
+      padding: 1rem;
+    }
+  }
