@@ -1,7 +1,7 @@
-# neogcamp-banana-speak
-Lesson 4: vanillaJS for beginners
+## The Banana Talk
 
-1. A basic VanillaJS app that converts your language to the minion's language.
+# Tech Stack:
+A basic VanillaJS app that converts your language to the minion's language.
 
    Tech used:
 
@@ -10,6 +10,15 @@ Lesson 4: vanillaJS for beginners
     b. CSS
 
     c. JS
-  
-2. A GUI of the same is pasted here.
+    
+## About Project:
+
+A Fun Translation Application made with help of JavaScript,HTML and CSS that translates English to Minions's Language.
+A textbox is there to enter the senetences in English, and after the click of a button named "Translate", 
+it shows transalated text in the Output Box.
+
+## A GUI of the same is pasted here.
 ![image](https://user-images.githubusercontent.com/56500938/205605251-80d8fa5b-b04c-4b5b-9acc-9ea72f79ff22.png)
+
+## LINK OF THE PROJECT
+You can also jump to the application from this --> [link](https://ayushjoshi-banana-app.netlify.app/).
