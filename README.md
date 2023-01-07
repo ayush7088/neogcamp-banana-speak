@@ -1,10 +1,7 @@
 # The Banana Talk
 
 ## Tech Stack:
-A basic VanillaJS app that uses :
-1.JavaScript
-2.HTML
-3.CSS
+A basic VanillaJS app that uses :JavaScript , HTML and CSS
    
 ## About Project:
 
