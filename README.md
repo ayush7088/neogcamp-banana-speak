@@ -1,6 +1,6 @@
-## The Banana Talk
+# The Banana Talk
 
-# Tech Stack:
+## Tech Stack:
 A basic VanillaJS app that converts your language to the minion's language.
 
    Tech used:
