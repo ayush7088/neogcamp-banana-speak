@@ -1,16 +1,11 @@
 # The Banana Talk
 
 ## Tech Stack:
-A basic VanillaJS app that converts your language to the minion's language.
-
-   Tech used:
-
-    a. HTML
-
-    b. CSS
-
-    c. JS
-    
+A basic VanillaJS app that uses :
+1.JavaScript
+2.HTML
+3.CSS
+   
 ## About Project:
 
 A Fun Translation Application made with help of JavaScript,HTML and CSS that translates English to Minions's Language.
